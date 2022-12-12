@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Midterm - MockBuster", "Midterm - MockBuster\Midterm - MockBuster.csproj", "{AAB8B924-53F2-478D-BE41-62AA24B02C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockBuster_UnitTesting", "MockBuster_UnitTesting\MockBuster_UnitTesting.csproj", "{ECB74C6B-0712-47CC-A9BA-6091DEA0F073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB8B924-53F2-478D-BE41-62AA24B02C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB8B924-53F2-478D-BE41-62AA24B02C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB8B924-53F2-478D-BE41-62AA24B02C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB8B924-53F2-478D-BE41-62AA24B02C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB74C6B-0712-47CC-A9BA-6091DEA0F073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB74C6B-0712-47CC-A9BA-6091DEA0F073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB74C6B-0712-47CC-A9BA-6091DEA0F073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB74C6B-0712-47CC-A9BA-6091DEA0F073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39A3646-D660-4715-8DA7-FC9A38543FAE}
+	EndGlobalSection
+EndGlobal
